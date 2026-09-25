@@ -1,0 +1,13 @@
+dataset,method,returns,min_elevation_m,max_elevation_m
+Data1,TIN,all,0.2,243.0
+Data1,TIN,first,0.3,240.0
+Data1,TIN,last,0.0,238.0
+Data1,IDW,all,0.2,242.0
+Data1,IDW,first,0.3,239.0
+Data1,IDW,last,0.0,237.0
+Toronto,TIN,all,1.0,250.0
+Toronto,TIN,first,1.1,247.0
+Toronto,TIN,last,0.9,245.0
+Toronto,IDW,all,1.0,249.0
+Toronto,IDW,first,1.1,246.0
+Toronto,IDW,last,0.9,244.0

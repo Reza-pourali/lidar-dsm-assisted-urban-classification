@@ -1,0 +1,5 @@
+model,feature_set,overall_accuracy_percent,macro_f1,weighted_f1
+Decision Tree,without DSM,92.46,0.91,0.92
+Random Forest,without DSM,95.0,0.94,0.95
+Decision Tree,with DSM,98.24,0.97,0.98
+Random Forest,with DSM,98.88,0.98,0.99
